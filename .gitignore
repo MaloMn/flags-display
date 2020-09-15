@@ -1,4 +1,5 @@
 *.ggb
 __pycache__/
 .idea/
-*_[0-9].(png|jpg)
+*_*.png
+*_*.jpg
